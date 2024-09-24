@@ -1,10 +1,10 @@
 {
-  "name": "1-post-message",
+  "name": "1-basic",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
   "scripts": {
-    "dev": "npx live-server ./1-post-message/"
+    "dev": "npx live-server"
   },
   "keywords": [],
   "author": "Ilan Copelyn",

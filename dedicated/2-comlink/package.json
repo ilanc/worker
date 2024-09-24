@@ -1,0 +1,12 @@
+{
+  "name": "2-comlink",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "npx live-server"
+  },
+  "keywords": [],
+  "author": "Ilan Copelyn",
+  "license": "ISC"
+}
